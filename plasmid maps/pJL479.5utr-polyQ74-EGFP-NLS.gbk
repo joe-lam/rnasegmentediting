@@ -1,0 +1,488 @@
+LOCUS       pJL479_5utr_poly        5273 bp    DNA        circular     12-SEP-2025
+DEFINITION  Forms cytosolic HTT partial  exon 1 Q74 aggregates.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 5125)
+  AUTHORS   Korsten G, Osinga M, Pelle RA, Serweta AK, Hoogenberg B, Kampinga
+            HH, Kapitein LC
+  TITLE     Nuclear poly-glutamine aggregates rupture the nuclear envelope and
+            hinder its repair.
+  JOURNAL   J Cell Biol. 2024 Nov 4;223(11):e202307142. doi:
+            10.1083/jcb.202307142. Epub 2024 Aug 16.
+  PUBMED    39150509
+REFERENCE   2  (bases 1 to 5125)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Apr 14, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "J Cell
+            Biol."; date: "2024-11-4"; volume: "223(11):e202307142. doi";
+            pages: " 10.1083/jcb.202307142. Epub 2024 Aug 16"
+COMMENT     Sequence Label: polyQ74-GFP
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          join(1..1299,1445..2617,2639..5273)
+                     /mol_type="genomic DNA"
+                     /organism="synthetic DNA construct"
+                     /locus_tag="source:synthetic DNA construct"
+                     /label="source:synthetic DNA construct"
+                     /ApEinfo_label="source:synthetic DNA construct"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+                     /ApEinfo_hidden
+     source          2618..2638
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+                     /locus_tag="source:synthetic DNA construct(1)"
+                     /label="source:synthetic DNA construct(1)"
+                     /ApEinfo_label="source:synthetic DNA construct"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+                     /ApEinfo_hidden
+     rep_origin      1..589
+                     /direction=RIGHT
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /locus_tag="ori"
+                     /label="ori"
+                     /ApEinfo_label="ori"
+                     /ApEinfo_fwdcolor="#999999"
+                     /ApEinfo_revcolor="#999999"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     490..509
+                     /note="pBR322 origin, forward primer"
+                     /locus_tag="pBR322ori-F"
+                     /label="pBR322ori-F"
+                     /ApEinfo_label="pBR322ori-F"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     enhancer        764..1067
+                     /note="human cytomegalovirus immediate early enhancer"
+                     /locus_tag="CMV enhancer"
+                     /label="CMV enhancer"
+                     /ApEinfo_label="CMV enhancer"
+                     /ApEinfo_fwdcolor="#5ac3fa"
+                     /ApEinfo_revcolor="#5ac3fa"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        1068..1271
+                     /note="human cytomegalovirus (CMV) immediate early
+                     promoter"
+                     /locus_tag="CMV promoter"
+                     /label="CMV promoter"
+                     /ApEinfo_label="CMV promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     1222..1242
+                     /note="Human CMV immediate early promoter, forward primer"
+                     /locus_tag="CMV-F"
+                     /label="CMV-F"
+                     /ApEinfo_label="CMV-F"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     regulatory      1895..1904
+                     /note="vertebrate consensus sequence for strong initiation
+                     of translation (Kozak, 1987)"
+                     /regulatory_class="other"
+                     /locus_tag="Kozak sequence"
+                     /label="Kozak sequence"
+                     /ApEinfo_label="Kozak sequence"
+                     /ApEinfo_fwdcolor="#00D95A"
+                     /ApEinfo_revcolor="#00D95A"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             join(1901..2617,2639..2641)
+                     /codon_start=1
+                     /product="the original enhanced GFP (Yang et al., 1996)"
+                     /note="mammalian codon-optimized"
+                     /translation=MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTL
+                     KFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKD
+                     DGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNG
+                     IKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHM
+                     VLLEFVTAAGITLGMDELYK
+                     /locus_tag="EGFP"
+                     /label="EGFP"
+                     /ApEinfo_label="EGFP"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             1901..2617
+                     /codon_start=1
+                     /product="enhanced GFP"
+                     /translation=MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTL
+                     KFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKD
+                     DGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNG
+                     IKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHM
+                     VLLEFVTAAGITLGMDELYK
+                     /locus_tag="EGFP(1)"
+                     /label="EGFP(1)"
+                     /ApEinfo_label="EGFP"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(1946..1967)
+                     /note="EGFP, reverse primer"
+                     /locus_tag="EGFP-N"
+                     /label="EGFP-N"
+                     /ApEinfo_label="EGFP-N"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(2207..2226)
+                     /note="For distinguishing EGFP variants, reverse primer"
+                     /locus_tag="EXFP-R"
+                     /label="EXFP-R"
+                     /ApEinfo_label="EXFP-R"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     2554..2575
+                     /note="EGFP, forward primer"
+                     /locus_tag="EGFP-C"
+                     /label="EGFP-C"
+                     /ApEinfo_label="EGFP-C"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     polyA_signal    2764..2885
+                     /note="SV40 polyadenylation signal"
+                     /locus_tag="SV40 poly(A) signal"
+                     /label="SV40 poly(A) signal"
+                     /ApEinfo_label="SV40 poly(A) signal"
+                     /ApEinfo_fwdcolor="#ff3eee"
+                     /ApEinfo_revcolor="#ff3eee"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(2801..2820)
+                     /note="SV40 polyA, reverse primer"
+                     /locus_tag="SV40pA-R"
+                     /label="SV40pA-R"
+                     /ApEinfo_label="SV40pA-R"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     2855..2874
+                     /note="SV40 polyA terminator, reverse primer"
+                     /locus_tag="EBV-rev"
+                     /label="EBV-rev"
+                     /ApEinfo_label="EBV-rev"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     rep_origin      complement(2892..3347)
+                     /direction=LEFT
+                     /note="f1 bacteriophage origin of replication; arrow
+                     indicates direction of (+) strand synthesis"
+                     /locus_tag="f1 ori"
+                     /label="f1 ori"
+                     /ApEinfo_label="f1 ori"
+                     /ApEinfo_fwdcolor="#999999"
+                     /ApEinfo_revcolor="#999999"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(3029..3050)
+                     /note="F1 origin, forward primer"
+                     /locus_tag="F1ori-F"
+                     /label="F1ori-F"
+                     /ApEinfo_label="F1ori-F"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     3241..3260
+                     /note="F1 origin, reverse primer"
+                     /locus_tag="F1ori-R"
+                     /label="F1ori-R"
+                     /ApEinfo_label="F1ori-R"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             2618..2638
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 (simian
+                     virus 40) large T antigen"
+                     /translation=PKKKRKV
+                     /locus_tag="SV40 NLS"
+                     /label="SV40 NLS"
+                     /ApEinfo_label="SV40 NLS"
+                     /ApEinfo_fwdcolor="#00e892"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        3374..3478
+                     /gene="bla"
+                     /locus_tag="AmpR promoter"
+                     /label="AmpR promoter"
+                     /ApEinfo_label="AmpR promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        3480..3837
+                     /note="SV40 enhancer and early promoter"
+                     /locus_tag="SV40 promoter"
+                     /label="SV40 promoter"
+                     /ApEinfo_label="SV40 promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     enhancer        3480..3671
+                     /note="enhancer for the SV40 early promoter (Herr, 1993)"
+                     /locus_tag="SV40 enhancer"
+                     /label="SV40 enhancer"
+                     /ApEinfo_label="SV40 enhancer"
+                     /ApEinfo_fwdcolor="#5ac3fa"
+                     /ApEinfo_revcolor="#5ac3fa"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(3503..3523)
+                     /note="SV40 enhancer, reverse primer for pBABE vectors"
+                     /locus_tag="pBABE 3'"
+                     /label="pBABE 3'"
+                     /ApEinfo_label="pBABE 3'"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     rep_origin      3688..3823
+                     /note="SV40 origin of replication"
+                     /locus_tag="SV40 ori"
+                     /label="SV40 ori"
+                     /ApEinfo_label="SV40 ori"
+                     /ApEinfo_fwdcolor="#999999"
+                     /ApEinfo_revcolor="#999999"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             3872..4666
+                     /codon_start=1
+                     /product="aminoglycoside phosphotransferase"
+                     /note="confers resistance to neomycin, kanamycin, and G418
+                     (Geneticin(R))"
+                     /translation=MIEQDGLHAGSPAAWVERLFGYDWAQQTIGCSDAAVFRLSAQGRP
+                     VLFVKTDLSGALNELQDEAARLSWLATTGVPCAAVLDVVTEAGRDWLLLGEVPGQDLL
+                     SSHLAPAEKVSIMADAMRRLHTLDPATCPFDHQAKHRIERARTRMEAGLVDQDDLDEE
+                     HQGLAPAELFARLKASMPDGEDLVVTHGDACLPNIMVENGRFSGFIDCGRLGVADRYQ
+                     DIALATRDIAEELGGEWADRFLVLYGIAAPDSQRIAFYRLLDEFF
+                     /locus_tag="NeoR/KanR"
+                     /label="NeoR/KanR"
+                     /ApEinfo_label="NeoR/KanR"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             3872..4666
+                     /codon_start=1
+                     /gene="aph(3')-II (or nptII)"
+                     /product="aminoglycoside phosphotransferase from Tn5"
+                     /note="confers resistance to neomycin, kanamycin, and G418
+                     (Geneticin(R))"
+                     /translation=MIEQDGLHAGSPAAWVERLFGYDWAQQTIGCSDAAVFRLSAQGRP
+                     VLFVKTDLSGALNELQDEAARLSWLATTGVPCAAVLDVVTEAGRDWLLLGEVPGQDLL
+                     SSHLAPAEKVSIMADAMRRLHTLDPATCPFDHQAKHRIERARTRMEAGLVDQDDLDEE
+                     HQGLAPAELFARLKASMPDGEDLVVTHGDACLPNIMVENGRFSGFIDCGRLGVADRYQ
+                     DIALATRDIAEELGGEWADRFLVLYGIAAPDSQRIAFYRLLDEFF
+                     /locus_tag="NeoR/KanR(1)"
+                     /label="NeoR/KanR(1)"
+                     /ApEinfo_label="NeoR/KanR"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(3926..3945)
+                     /note="Neomycin resistance gene, reverse primer"
+                     /locus_tag="Neo-R"
+                     /label="Neo-R"
+                     /ApEinfo_label="Neo-R"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     4536..4555
+                     /note="Neomycin resistance gene, forward primer"
+                     /locus_tag="Neo-F"
+                     /label="Neo-F"
+                     /ApEinfo_label="Neo-F"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     primer_bind     complement(4854..4873)
+                     /note="Thymidine kinase polyA, reverse primer"
+                     /locus_tag="TK-pA-R"
+                     /label="TK-pA-R"
+                     /ApEinfo_label="TK-pA-R"
+                     /ApEinfo_fwdcolor="#14c0bd"
+                     /ApEinfo_revcolor="#4ec02b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     polyA_signal    4898..4945
+                     /note="herpes simplex virus thymidine kinase
+                     polyadenylation signal (Cole and Stacy, 1985)"
+                     /locus_tag="HSV TK poly(A) signal"
+                     /label="HSV TK poly(A) signal"
+                     /ApEinfo_label="HSV TK poly(A) signal"
+                     /ApEinfo_fwdcolor="#ff3eee"
+                     /ApEinfo_revcolor="#ff3eee"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     misc_feature    1445..1884
+                     /locus_tag="HTT exon 1 with Q68"
+                     /label="HTT exon 1 with Q68"
+                     /ApEinfo_label="HTT exon 1 with Q68"
+                     /ApEinfo_fwdcolor="#ff69b2"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     misc_feature    1849..1884
+                     /locus_tag="part of exon 2"
+                     /label="part of exon 2"
+                     /ApEinfo_label="part of exon 2"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     misc_feature    1300..1444
+                     /locus_tag="5'UTR of HTT"
+                     /label="5'UTR of HTT"
+                     /ApEinfo_label="5'UTR of HTT"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     misc_feature    complement(2594..2613)
+                     /locus_tag="EGFP-710R"
+                     /label="EGFP-710R"
+                     /ApEinfo_label="EGFP-710R"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     misc_feature    complement(1729..1758)
+                     /locus_tag="crHTT6"
+                     /label="crHTT6"
+                     /ApEinfo_label="crHTT6"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     misc_feature    complement(1759..1788)
+                     /locus_tag="crHTT7"
+                     /label="crHTT7"
+                     /ApEinfo_label="crHTT7"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+ORIGIN
+        1 ttgagatcct ttttttctgc gcgtaatctg ctgcttgcaa acaaaaaaac caccgctacc
+       61 agcggtggtt tgtttgccgg atcaagagct accaactctt tttccgaagg taactggctt
+      121 cagcagagcg cagataccaa atactgttct tctagtgtag ccgtagttag gccaccactt
+      181 caagaactct gtagcaccgc ctacatacct cgctctgcta atcctgttac cagtggctgc
+      241 tgccagtggc gataagtcgt gtcttaccgg gttggactca agacgatagt taccggataa
+      301 ggcgcagcgg tcgggctgaa cggggggttc gtgcacacag cccagcttgg agcgaacgac
+      361 ctacaccgaa ctgagatacc tacagcgtga gctatgagaa agcgccacgc ttcccgaagg
+      421 gagaaaggcg gacaggtatc cggtaagcgg cagggtcgga acaggagagc gcacgaggga
+      481 gcttccaggg ggaaacgcct ggtatcttta tagtcctgtc gggtttcgcc acctctgact
+      541 tgagcgtcga tttttgtgat gctcgtcagg ggggcggagc ctatggaaaa acgccagcaa
+      601 cgcggccttt ttacggttcc tggccttttg ctggcctttt gctcacatgt tctttcctgc
+      661 gttatcccct gattctgtgg ataaccgtat taccgccatg cattagttat taatagtaat
+      721 caattacggg gtcattagtt catagcccat atatggagtt ccgcgttaca taacttacgg
+      781 taaatggccc gcctggctga ccgcccaacg acccccgccc attgacgtca ataatgacgt
+      841 atgttcccat agtaacgcca atagggactt tccattgacg tcaatgggtg gagtatttac
+      901 ggtaaactgc ccacttggca gtacatcaag tgtatcatat gccaagtacg ccccctattg
+      961 acgtcaatga cggtaaatgg cccgcctggc attatgccca gtacatgacc ttatgggact
+     1021 ttcctacttg gcagtacatc tacgtattag tcatcgctat taccatggtg atgcggtttt
+     1081 ggcagtacat caatgggcgt ggatagcggt ttgactcacg gggatttcca agtctccacc
+     1141 ccattgacgt caatgggagt ttgttttggc accaaaatca acgggacttt ccaaaatgtc
+     1201 gtaacaactc cgccccattg acgcaaatgg gcggtaggcg tgtacggtgg gaggtctata
+     1261 taagcagagc tggtttagtg aaccgtcaga tccgctagcg ctgccgggac gggtccaaga
+     1321 tggacggccg ctcaggttct gcttttacct gcggcccaga gccccattca ttgccccggt
+     1381 gctgagcggc gccgcgagtc ggcccgaggc ctccggggac tgccgtgccg ggcgggagac
+     1441 cgccatggcg accctggaaa agctgatgaa ggccttcgag tccctcaagt ccttccagca
+     1501 gcagcagcag cagcagcagc agcagcagca gcagcagcag cagcagcagc agcagcagca
+     1561 gcagcagcag cagcagcagc agcagcagca gcagcagcag cagcagcagc agcagcagca
+     1621 gcagcagcag cagcagcagc agcagcagca gcagcagcag cagcagcagc agcagcagca
+     1681 gcagcagcag cagcaacagc cgccaccgcc gccgccgccg ccgccgcctc ctcagcttcc
+     1741 tcagccgccg ccgcaggcac agccgctgct gcctcagccg cagccgcccc cgccgccgcc
+     1801 cccgccgcca cccggcccgg ctgtggctga ggagccgctg caccgaccaa agaaagaact
+     1861 ttcagctacc aagaaagacc gtgtaggatc catcgccacc atggtgagca agggcgagga
+     1921 gctgttcacc ggggtggtgc ccatcctggt cgagctggac ggcgacgtaa acggccacaa
+     1981 gttcagcgtg tccggcgagg gcgagggcga tgccacctac ggcaagctga ccctgaagtt
+     2041 catctgcacc accggcaagc tgcccgtgcc ctggcccacc ctcgtgacca ccctgaccta
+     2101 cggcgtgcag tgcttcagcc gctaccccga ccacatgaag cagcacgact tcttcaagtc
+     2161 cgccatgccc gaaggctacg tccaggagcg caccatcttc ttcaaggacg acggcaacta
+     2221 caagacccgc gccgaggtga agttcgaggg cgacaccctg gtgaaccgca tcgagctgaa
+     2281 gggcatcgac ttcaaggagg acggcaacat cctggggcac aagctggagt acaactacaa
+     2341 cagccacaac gtctatatca tggccgacaa gcagaagaac ggcatcaagg tgaacttcaa
+     2401 gatccgccac aacatcgagg acggcagcgt gcagctcgcc gaccactacc agcagaacac
+     2461 ccccatcggc gacggccccg tgctgctgcc cgacaaccac tacctgagca cccagtccgc
+     2521 cctgagcaaa gaccccaacg agaagcgcga tcacatggtc ctgctggagt tcgtgaccgc
+     2581 cgccgggatc actctcggca tggacgagct gtacaagcca aaaaagaaga gaaaggtata
+     2641 aagcggccgc gactctagat cataatcagc cataccacat ttgtagaggt tttacttgct
+     2701 ttaaaaaacc tcccacacct ccccctgaac ctgaaacata aaatgaatgc aattgttgtt
+     2761 gttaacttgt ttattgcagc ttataatggt tacaaataaa gcaatagcat cacaaatttc
+     2821 acaaataaag catttttttc actgcattct agttgtggtt tgtccaaact catcaatgta
+     2881 tcttaaggcg taaattgtaa gcgttaatat tttgttaaaa ttcgcgttaa atttttgtta
+     2941 aatcagctca ttttttaacc aataggccga aatcggcaaa atcccttata aatcaaaaga
+     3001 atagaccgag atagggttga gtgttgttcc agtttggaac aagagtccac tattaaagaa
+     3061 cgtggactcc aacgtcaaag ggcgaaaaac cgtctatcag ggcgatggcc cactacgtga
+     3121 accatcaccc taatcaagtt ttttggggtc gaggtgccgt aaagcactaa atcggaaccc
+     3181 taaagggagc ccccgattta gagcttgacg gggaaagccg gcgaacgtgg cgagaaagga
+     3241 agggaagaaa gcgaaaggag cgggcgctag ggcgctggca agtgtagcgg tcacgctgcg
+     3301 cgtaaccacc acacccgccg cgcttaatgc gccgctacag ggcgcgtcag gtggcacttt
+     3361 tcggggaaat gtgcgcggaa cccctatttg tttatttttc taaatacatt caaatatgta
+     3421 tccgctcatg agacaataac cctgataaat gcttcaataa tattgaaaaa ggaagagtcc
+     3481 tgaggcggaa agaaccagct gtggaatgtg tgtcagttag ggtgtggaaa gtccccaggc
+     3541 tccccagcag gcagaagtat gcaaagcatg catctcaatt agtcagcaac caggtgtgga
+     3601 aagtccccag gctccccagc aggcagaagt atgcaaagca tgcatctcaa ttagtcagca
+     3661 accatagtcc cgcccctaac tccgcccatc ccgcccctaa ctccgcccag ttccgcccat
+     3721 tctccgcccc atggctgact aatttttttt atttatgcag aggccgaggc cgcctcggcc
+     3781 tctgagctat tccagaagta gtgaggaggc ttttttggag gcctaggctt ttgcaaagat
+     3841 cgatcaagag acaggatgag gatcgtttcg catgattgaa caagatggat tgcacgcagg
+     3901 ttctccggcc gcttgggtgg agaggctatt cggctatgac tgggcacaac agacaatcgg
+     3961 ctgctctgat gccgccgtgt tccggctgtc agcgcagggg cgcccggttc tttttgtcaa
+     4021 gaccgacctg tccggtgccc tgaatgaact gcaagacgag gcagcgcggc tatcgtggct
+     4081 ggccacgacg ggcgttcctt gcgcagctgt gctcgacgtt gtcactgaag cgggaaggga
+     4141 ctggctgcta ttgggcgaag tgccggggca ggatctcctg tcatctcacc ttgctcctgc
+     4201 cgagaaagta tccatcatgg ctgatgcaat gcggcggctg catacgcttg atccggctac
+     4261 ctgcccattc gaccaccaag cgaaacatcg catcgagcga gcacgtactc ggatggaagc
+     4321 cggtcttgtc gatcaggatg atctggacga agagcatcag gggctcgcgc cagccgaact
+     4381 gttcgccagg ctcaaggcga gcatgcccga cggcgaggat ctcgtcgtga cccatggcga
+     4441 tgcctgcttg ccgaatatca tggtggaaaa tggccgcttt tctggattca tcgactgtgg
+     4501 ccggctgggt gtggcggacc gctatcagga catagcgttg gctacccgtg atattgctga
+     4561 agagcttggc ggcgaatggg ctgaccgctt cctcgtgctt tacggtatcg ccgctcccga
+     4621 ttcgcagcgc atcgccttct atcgccttct tgacgagttc ttctgagcgg gactctgggg
+     4681 ttcgaaatga ccgaccaagc gacgcccaac ctgccatcac gagatttcga ttccaccgcc
+     4741 gccttctatg aaaggttggg cttcggaatc gttttccggg acgccggctg gatgatcctc
+     4801 cagcgcgggg atctcatgct ggagttcttc gcccacccta gggggaggct aactgaaaca
+     4861 cggaaggaga caataccgga aggaacccgc gctatgacgg caataaaaag acagaataaa
+     4921 acgcacggtg ttgggtcgtt tgttcataaa cgcggggttc ggtcccaggg ctggcactct
+     4981 gtcgataccc caccgagacc ccattggggc caatacgccc gcgtttcttc cttttcccca
+     5041 ccccaccccc caagttcggg tgaaggccca gggctcgcag ccaacgtcgg ggcggcaggc
+     5101 cctgccatag cctcaggtta ctcatatata ctttagattg atttaaaact tcatttttaa
+     5161 tttaaaagga tctaggtgaa gatccttttt gataatctca tgaccaaaat cccttaacgt
+     5221 gagttttcgt tccactgagc gtcagacccc gtagaaaaga tcaaaggatc ttc
+//
