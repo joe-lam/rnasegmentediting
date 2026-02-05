@@ -1,2 +1,2 @@
-# RNA Segment Editing
-RNA Segment Editing
+# Molecular basis of target RNA cleavage by Cas13 
+Molecular basis of target RNA cleavage by Cas13 
