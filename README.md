@@ -1,6 +1,7 @@
 # Molecular basis of target RNA cleavage by Cas13   
-Joe K. C. Lam, Summerloretta S. K. Leung, Jason Ying Ki Li, Ezra C. K. Cheng & S. Chul Kwon  (권성철)
-Nature Communications (2026)
+Joe K. C. Lam, Summerloretta S. K. Leung, Jason Ying Ki Li, Ezra C. K. Cheng & S. Chul Kwon  (권성철) \
+Nature Communications (2026) \
+https://doi.org/10.1038/s41467-026-71578-7
 
 ## Abstract
 RNA-targeting CRISPR-Cas13 enzymes are robust RNA knockdown tools with both on-target and collateral cleavage activities. However, to date, the in vivo RNA cleavage mechanisms remain poorly understood. Here, we combine in vitro and in vivo methods to elucidate the exact cleavage sites of Cas13. We reveal that some subtypes of Cas13, including Cas13b and Cas13bt, cleave the target RNA at predominant positions, and rational engineering of Cas13 further improves precision. Building on these findings, we develop RNA segment editing (RSE), a targeted RNA cleavage and repair method, to restore dysfunctional RNA in cells. We anticipate that RSE will enable precision RNA engineering for therapeutics and basic research.
@@ -10,7 +11,7 @@ This repository contains the Snakemake files and Jupyter notebooks used for:
 - Processing raw data from NGS
 - Generating the main and supplementary figures shown in the paper
 
-All results in the paper can be reproduced with the provided scripts and raw data (available in GEO: xxxxxxx).
+All results in the paper can be reproduced with the provided scripts and raw data (available in GEO: GSE313507, GSE313508, and GSE313509).
 
 ## Details
 To process and analyze the raw data for **Figure 2 and Supplementary Figures 3-6**, use the snakemake files and Jupyter notebooks located in the scripts folder
