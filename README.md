@@ -1,6 +1,6 @@
 # Molecular basis of target RNA cleavage by Cas13   
-"[Paper Title](https://doi.org/xxxxxx)"  
-Authors · Journal/Preprint · Year
+Joe K. C. Lam, Summerloretta S. K. Leung, Jason Ying Ki Li, Ezra C. K. Cheng & S. Chul Kwon  (권성철)
+Nature Communications (2026)
 
 ## Abstract
 RNA-targeting CRISPR-Cas13 enzymes are robust RNA knockdown tools with both on-target and collateral cleavage activities. However, to date, the in vivo RNA cleavage mechanisms remain poorly understood. Here, we combine in vitro and in vivo methods to elucidate the exact cleavage sites of Cas13. We reveal that some subtypes of Cas13, including Cas13b and Cas13bt, cleave the target RNA at predominant positions, and rational engineering of Cas13 further improves precision. Building on these findings, we develop RNA segment editing (RSE), a targeted RNA cleavage and repair method, to restore dysfunctional RNA in cells. We anticipate that RSE will enable precision RNA engineering for therapeutics and basic research.
